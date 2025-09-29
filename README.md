@@ -1,2 +1,2 @@
-# Ca--1-proposal
+# Ca-1 proposal
 project
